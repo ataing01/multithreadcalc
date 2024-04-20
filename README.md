@@ -1,4 +1,4 @@
-Run with ./calc "$(<df.txt)" "$(<input.txt)"
+Run with ./main.cpp "$(<df.txt)" "$(<input.txt)"
 
 In "input.txt" put the numeric values of variables, must be 0-9
 
